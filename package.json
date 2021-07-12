@@ -1,6 +1,7 @@
 {
 	"author": "Steph Peets",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Project to learn Node.js, npm packages and .json files",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
