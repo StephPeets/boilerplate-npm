@@ -2,6 +2,7 @@
 	"author": "Steph Peets",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Project to learn Node.js, npm packages and .json files",
+	"keywords" : [ "freecodecamp", "json", "npm" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
